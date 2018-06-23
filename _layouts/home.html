@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign projects =  site.projects | sort: 'weight' %}
+{% assign posts =  site.posts | sort: 'date' | reverse %}
+
+<h2>Projects</h2>
+<section>
+    <div class="panel-group">
+        {% for post in projects %}
+            {% include panel.html %}
+        {% endfor %}
+    </div>
+</section>
+
+{% if posts.size > 0 %}
+    <h2>Writing</h2>
+
+    <section>
+        {% for post in posts %}
+            {% include blog_summary.html %}
+        {% endfor %}
+    </section>
+{% endif %}

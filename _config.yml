@@ -16,11 +16,18 @@
 title: Ben Howes
 email: ben@ben-howes.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Content comming soon
+  Software Engineer & Creative Problem Solver
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ben-howes.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: Ben Howes
+
+twitter_username: ben_howes
+github_username:  benhowes
+linkedin_profile: https://www.linkedin.com/in/benjaminhowes/
+
+footer: >
+  &copy; Ben Howes. Theme based on [Github pages hacker](https://github.com/pages-themes/hacker).
 
 # Build settings
 markdown: kramdown
@@ -30,6 +37,19 @@ plugins:
 
 # Theme variables
 show_downloads: false
+
+collections:
+  projects:
+    output: true
+    permalink: /:title/
+
+defaults:
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: post
+      tags: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
