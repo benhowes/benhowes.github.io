@@ -11,7 +11,7 @@ weight: 0
 [Zoetrope Labs](https://zoetrope.io) was a company I started almost immediately upon graduating from university in the summer of 2013.
 
 Zoetrope had 2 lives:
-1. as a 3D product photography company ([detailed here](https://zoetrope.io/client-story/3d-imaging/))
+1. one as a 3D product photography company ([detailed here](https://zoetrope.io/client-story/3d-imaging/))
 2. a longer and more productive one as an IoT consultancy
 
 I'll write more about the photography business another time - but suffice to say, I was not able to achieve product/market fit. In 2015 we successfully pivoted to IoT consulting, just as the buzzword was being popularised.
