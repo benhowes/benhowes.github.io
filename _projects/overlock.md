@@ -30,7 +30,7 @@ Overlock was a tool built using our ZConnect system, with an Elastic search data
 4. Got front-page hackernews
 5. Spoke with IoT engineers at companies such as Beko and Bosch
 
-![Our stand](/assets/images/overlock_sf_show.jpg){: width="80%", height="auto"}
+![Our stand](/assets/images/overlock_sf_show.jpg)
 > Martin Rolph (right) and me showing off Overlock in San Francisco.
 
 The unique aspects of the solutions over other logging/exception catching systems were:
