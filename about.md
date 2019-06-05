@@ -1,7 +1,7 @@
 ---
-layout: default
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 ![profile picture](./assets/images/benhowes.jpg){: width="309px" style="float: right; border-radius: 3px; margin-left: 30px; margin-right:12px;"}

@@ -1,5 +1,6 @@
 ---
-title: "How I decided to shut down my successful small business"
+title: How I decided to shut down my successful small business
+date: 2019-06-04 00:00:00 Z
 ---
 
 In this post, I'm telling the story of how I decided to walk away from an (eventually) successful small company that I started. After making £1M in revenue, I made some of my closest friends redundant, let clients go and wound up operations altogether.

@@ -1,8 +1,10 @@
 ---
 title: Tavern
 image: "/assets/images/tavern.png"
-summary: >
-    Tavern is an HTTP/MQTT integration testing system designed for integration testing API's and IoT systems.
+summary: 'Tavern is an HTTP/MQTT integration testing system designed for integration
+  testing API''s and IoT systems.
+
+'
 weight: 20
 current: true
 ---
