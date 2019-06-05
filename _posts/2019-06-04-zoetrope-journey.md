@@ -19,7 +19,7 @@ Here's where it gets tricky. For the first 2 years or so of consulting work, I w
 
 Don't get me wrong, there's a great sense of reward in delivering hardware and software to customers and them being able to run their businesses with your work. It's just that after a while, you start to wish you were building for yourself, where you can see the ROI rather than someone else.
 
-Consulting felt crazy difficult for a long time, then suddenly, it was like being in a hamster wheel. The constant churn of projects, constant curve-balls (e.g. employee moving away, cancelled projects) but never the less - predictable-ish.
+Consulting felt crazy difficult for a long time, then suddenly, it was like being in a hamster wheel. Predictable, tiring. There was always the constant churn of projects, constant curve-balls (e.g. employee moving away, cancelled projects) but it's just normal stuff.
 
 ## What we tried to do to overcome those
 Like many consulting business owners, I wanted the business to be less dependent on projects, build recurring revenue and increase scalability (i.e. revenue per developer). The aims of this were really freedom from the pressure of consulting and also the freedom to create something the way I wanted it to be, at least with comparison to consulting where the clients (understandably) exert quite some control on occasion.
@@ -37,13 +37,13 @@ We spent about £100K on the downtime needed for those projects and the associat
 The business was healthy, and we were just at the start of 3 reasonably big consulting projects which were based around ZConnect.
 
 ## Radical action
-Then Richard and I decided to pull the plug.
+Then Rich and I decided to pull the plug.
 
-At that point, we had worked really hard for about 5 years. I was exhausted. Richard was exhausted. But most of all, we did not have a business of a large enough size that we could hire people to take the load off. I'd learned a great deal and based on the experience we'd had I knew that with the current course of action, we were never going to have the time or the energy to make a product and achieve market fit.
+At that point, we had worked really hard for about 5 years. I was exhausted. Rich was exhausted. But most of all, we did not have a business of a large enough size that we could hire people to take the load off. I'd learned a great deal and based on the experience we'd had I knew that with the current course of action, we were never going to have the time or the energy to make a product and achieve market fit.
 
-Richard and I went for a walk, sat on [some steps in one of my favourite parts of Bristol](https://goo.gl/maps/LC3Wut8P9g48szC98) and made the decision that we were stuck in a rut. We made a decision on the spot.
+Rich and I went for a walk, sat on [some steps in one of my favourite parts of Bristol](https://goo.gl/maps/LC3Wut8P9g48szC98) and made the decision that we were stuck in a rut. We made a decision on the spot.
 
-Making the decision to shut down was not as hard as you'd probably imagine. We had discussed the same topic about 6 months earlier before we had what turned out to be the last hurrah with Overlock. We went back to the office and finished the day.
+Making the decision to shut down was not as hard as you'd probably imagine. We had discussed the same topic about 6 months earlier  - triggered us to put a lot of effort into what one last big push to make something scalable with Overlock. Following this, we went back to the office and finished the day as if it were any other day. Probably in denial about what had just happened.
 
 The next day was far less comfortable - I had to let the team know my decision. I'd be lying if I said I didn't shed a tear. The team were massively supportive of the decision. I knew that none of them would have any trouble moving on and sure enough, they were all in new jobs in no time.
 
@@ -52,13 +52,13 @@ It took about 6 weeks to finish our projects, hand everything over and sell asse
 Overall I spent 3.5 years in the tech consulting business, turned over very nearly £1M and was able to pay back the loans which formed most of the original investment.
 
 ## 1 year on
-I went straight on to python contracting the Monday after handing over the keys to the Zoetrope Labs office with no break. Richard had a Holiday and then did the same thing.
+I went straight on to python contracting the Monday after handing over the keys to the Zoetrope Labs office with no break. Rich had a Holiday and then did the same thing.
 
 Regardless of still working - I was relieved to be working 40 hours a week rather than 50+ and with comparatively low responsibility. The first Holiday where I wasn't worried about what was going on at Zoetrope was also fantastic.
 
 I took a few months just to take it easy, go to the gym more, spend more time with my wife and take care of myself a bit more. I didn't have much of an urge to make things for a little while. Over this time the "batteries recharged".
 
-From September 2018 onwards, I started working on [Stalemate](https://stalemate.io) with Richard. One day that may be a side project that pays a bit. I'm just getting started on another side project with some other collaborators, which is really exciting.
+From September 2018 onwards, I started working on [Stalemate](https://stalemate.io) with Rich. One day that may be a side project that pays a bit. I'm just getting started on another side project with some other collaborators, which is really exciting.
 
 My longer-term goal is to get to the stage that all of my income comes from one or two of my own companies, which will give me the freedom and sense of achievement I'm looking for. The plan is:
 
