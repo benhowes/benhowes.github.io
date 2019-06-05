@@ -22,9 +22,9 @@ Don't get me wrong, there's a great sense of reward in delivering hardware and s
 Consulting felt crazy difficult for a long time, then suddenly, it was like being in a hamster wheel. Predictable, tiring. There was always the constant churn of projects, constant curve-balls (e.g. employee moving away, cancelled projects) but it's just normal stuff.
 
 ## What we tried to do to overcome those
-Like many consulting business owners, I wanted the business to be less dependent on projects, build recurring revenue and increase scalability (i.e. revenue per developer). The aims of this were really freedom from the pressure of consulting and also the freedom to create something the way I wanted it to be, at least with comparison to consulting where the clients (understandably) exert quite some control on occasion.
+Like many consulting business owners, I wanted the business to be less dependent on projects, build recurring revenue, and increase scalability (i.e. revenue per developer). The aims of this were really freedom from the pressure of consulting and also the freedom to create something the way I wanted it to be, at least with comparison to consulting where the clients (understandably) exert quite some control on occasion.
 
-Using some time between other projects, as well as moonlighting, we experimented with several ideas to see where something could go. I'll go into more detail on these another time, however, in brief, the product experiments were:
+Using some time between other projects, as well as moonlighting, we experimented with several ideas to see where something could go. I'll go into more detail on these another time, but briefly, the product experiments were:
 1. ZConnect - This was a complete IoT platform, which we'd developed in part for a large client who wanted a bespoke platform, and then extended for other uses.
 2. [Overlock](https://overlock.io/) (site just for reference) - This was a product which we desperately needed when we were working in the IoT space.
 3. [Tavern](https://taverntesting.github.io/), which was an "Engineering as marketing" project as first. We [considered making a functional API monitoring solution around this](https://github.com/taverntesting/tavern/issues/91). This was [Mike Boulton's](https://github.com/michaelboulton) pet project, and still is today - shout out to Boulton!
@@ -32,7 +32,7 @@ Using some time between other projects, as well as moonlighting, we experimented
 Of the 3, Overlock was the one we really did with force and intention, including making an MVP in 2 months (based on ZConnect), visiting an IoT fair and having about 30/40 follow up conversations with potential customers from that, including some giant companies like Bosch. Through that process, we found that everyone wanted a product like Overlock, but everyone's needs did not overlap enough that we could productize without a significant consulting phase for each customer. That works for SAP and Salesforce, but it's not really what I was after for my company.
 
 ## How it ultimately didn't work out
-We spent about £100K on the downtime needed for those projects and the associated marketing spend to explore the idea with potential customers.
+We spent about £100K on the downtime needed for those projects and the associated marketing spend to explore the idea with potential customers. Not a problematic amount to spend, but it did highlight how quickly money can go into these things.
 
 The business was healthy, and we were just at the start of 3 reasonably big consulting projects which were based around ZConnect.
 
