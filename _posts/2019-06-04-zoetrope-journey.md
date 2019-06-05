@@ -3,7 +3,7 @@ title: How I decided to shut down my successful small business
 date: 2019-06-04 00:00:00 Z
 ---
 
-In this post, I'm telling the story of how I decided to walk away from an (eventually) successful small company that I started. After making £1M in revenue, I made some of my closest friends redundant, let clients go and wound up operations altogether.
+In this post, I'm telling the story of how I decided to walk away from a profitable small company that I started. After making £1M in revenue, I made some of my closest friends redundant, let clients go and wound up operations altogether.
 
 ## Setting the scene
 The company we're talking about is Zoetrope Labs. I started it immediately after finishing university in June 2013. For the first \~18 months or so, the company raised about £120K and spent nearly all of that on developing a 360&deg; e-commerce photography system - more on that another time. The "3D-photography-as-a-service" did not stick at all. We were very low on morale, and even lower on cash. At that point, we had less than 1 month of money left.
