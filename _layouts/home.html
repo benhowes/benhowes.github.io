@@ -2,16 +2,12 @@
 layout: default
 ---
 
+{% assign about = site.pages | where: "title", "About" | first %}
 {% assign projects =  site.projects | sort: 'weight' %}
 {% assign posts =  site.posts | sort: 'date' | reverse %}
 
-<h2>Projects</h2>
-<section>
-    <div class="panel-group">
-        {% for post in projects %}
-            {% include panel.html %}
-        {% endfor %}
-    </div>
+<section class="clearfix">
+    {{about.content}}
 </section>
 
 {% if posts.size > 0 %}
@@ -23,3 +19,12 @@ layout: default
         {% endfor %}
     </section>
 {% endif %}
+
+<h2>Projects</h2>
+<section>
+    <div class="panel-group">
+        {% for post in projects %}
+            {% include panel.html %}
+        {% endfor %}
+    </div>
+</section>
