@@ -5,7 +5,7 @@ summary: 'Zoetrope Labs was an IoT consultancy which I founded and grew to a tea
   of 7 people. We completed projects for the GSMA, e.on etc.
 
 '
-weight: 0
+weight: 1
 current: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Overlock
-image: "/assets/images/overlock.png"
+image: "/assets/images/overlock-hero.png"
 summary: 'Overlock is an IoT debugging product which my team and I created at Zoetrope
   to address the difficulties of remote debugging IoT.
 
@@ -8,6 +8,8 @@ summary: 'Overlock is an IoT debugging product which my team and I created at Zo
 weight: 10
 current: false
 ---
+
+![Overlock system](/assets/images/overlock-hero.png)
 
 See [the Overlock site](https://overlock.io) for a snapshot of the customer facing site we built.
 
