@@ -11,8 +11,6 @@ current: false
 
 ![Overlock system](/assets/images/overlock-hero.png)
 
-See [the Overlock site](https://overlock.io) for a snapshot of the customer facing site we built.
-
 In a nut shell - Overlock was an error catching an debugging tool for distributed systems, particuarly IoT systems.
 
 In circa October 2017, I had spent a few months scratching my head about different ways in which our expertise and IoT platform, when a completely different problem struck me - just how hard it is to debug IoT systems in production. This was something we knew all too well from several of our projects.
