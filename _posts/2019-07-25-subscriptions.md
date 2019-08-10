@@ -32,7 +32,7 @@ I read up a few months ago that [Amazon's somewhat controversial patents on "One
 
 I decided to make a really simple prototype which would allow me to make an order when I'm making coffee and without requiring anything more than a click.
 
-## Exract Extract
+## Extract Extract
 Using a UI testing automation framework, [cypress](https://cypress.io), I created [extract-extract](https://github.com/benhowes/extract-extract).
 
 ![Auto coffee order](https://github.com/benhowes/extract-extract/raw/master/img/overview.png)
