@@ -1,7 +1,8 @@
 ---
 title: Hedira
 image: "/assets/images/hedira-hero.png"
-summary: Hedira helps you look after plants by giving you the right advice at the right time. Native apps for iOS and Android.
+summary: Hedira helps you look after plants by giving you the right advice at the
+  right time. Native apps for iOS and Android.
 weight: 0
 current: true
 ---
