@@ -4,7 +4,7 @@ image: "/assets/images/stalemate.png"
 summary: Stalemate is a PR dashboard for your Github organisations. See CI, Reviews
   and mergability at a glance.
 weight: 0
-current: true
+current: false
 ---
 
 [Stalemate](https://stalemate.io) is a project built out of a couple of problems I've had and witnessed whilst being a freelancer on software teams.
