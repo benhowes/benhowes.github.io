@@ -15,6 +15,13 @@ I've done short MVP builds several times before at this point, and I wanted to s
 
 # My tips for making an MVP fast
 
+## 0. Have a deadline
+For a Software/SaaS product; you're going to need to carve out somewhere between 3-6 weeks when you can spend at least most of your time on creating the MVP. Other industries may vary - e.g. anything with hardware is going to need an order of magnitude more time (at least).
+
+It's not an artificial deadline once you've had to move mountains to be able to spend time on the project.
+
+I was able to carve out 4 weeks, and I had really hoped that I'd only need 3 of those weeks. I did, of course, end up using all 4!
+
 ## 1. Work with tools you already have/know
 This is summarised well as ["Use boring technology"](https://mcfunley.com/choose-boring-technology), i.e. the best tools to use are the ones you already have. That means don't use your MVP build to try and learn a new language or tool if possible.
 
