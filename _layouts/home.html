@@ -6,8 +6,11 @@ layout: default
 {% assign projects =  site.projects | sort: 'weight' %}
 {% assign posts =  site.posts | sort: 'date' | reverse %}
 
-<section class="clearfix">
-    {{about.content}}
+<section class="profile">
+   <div class="image">
+    <img src="./assets/images/2021_3x2_medres.jpg" width="309px" class="profile-image" alt="Ben Howes"/>
+   </div>
+   <div class="content">{{about.content}}</div>
 </section>
 
 {% if posts.size > 0 %}

@@ -38,6 +38,40 @@ footer {
     font-family: 'Inconsolata', monospace;
 }
 
+// Home page header
+
+.profile {
+    display: flex;
+    flex-direction: row-reverse;
+
+    .image, .content{
+        flex-grow: 1;
+    }
+
+    .image{
+        img {
+            border-radius: 3px;
+        }
+    }
+    .content{
+        padding-right: 25px;
+    }
+}
+
+@media(max-width: 612px){
+    .profile{
+        display: block;
+
+        .image{
+            text-align: center;
+        }
+
+        .content{
+        padding-right: 0px;
+    }
+    }
+}
+
 // Social media links
 #links{
     font-size: 24px;
