@@ -19,7 +19,7 @@ I commissioned the project and provided feedback as the project went from a very
 2. Commissioned creation of the documentation and open sourcing of the project
 3. Helped to evaluate new features and make sure they were ready for users
 4. Helped to build a community around the project with responding to github issues, getting a gitter set up
-5. Was involved in spec'ing up the v1.0 release (still WIP)
+5. Was involved in spec'ing up the v1.0 release
 
 The project regularly sees input from contributors outside of the original team and we're working towards continuing to build a community around the project to ensure its long term success.
 
