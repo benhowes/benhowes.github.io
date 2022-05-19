@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: default
 ---
 
-Hi, I’m Ben, [CTO @ Spatial Quotient](https://spatialquotient.com/). I've been working on hi-tech businesses for over 10 years.
+Hi, I’m Ben, I'm a freelance software consultant. I've been working on hi-tech businesses for over 10 years.
 
 I post here about what I'm working on and learning.
 
