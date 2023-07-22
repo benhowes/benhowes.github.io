@@ -32,9 +32,8 @@
                 <div class="header" style="background-image: url({{post.image}});">
                     &nbsp;
                     {% if post.current %}
-                        <div class="current">
-                            Active
-                            <img src="{{ 'assets/images/current_project.png' | relative_url }}"/>
+                        <div class="article__date">
+                            Active <i class="ion ion-md-checkmark-circle-outline" style="color: #A0F351;"></i>
                         </div>
                     {% endif %}
                 </div>
