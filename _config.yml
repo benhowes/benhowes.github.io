@@ -12,24 +12,40 @@ collections:
   uploads:
     title: Uploads
     output: true
+
 defaults:
-- scope:
-    path: ''
-    type: projects
-  values:
-    layout: post
-    tags: false
-email: ben@ben-howes.co.uk
-description: Software Engineer & Entrepreneur
-baseurl: ''
-url: https://ben-howes.co.uk
-author: Benjamin Howes
-twitter_username: ben_howes
-github_username: benhowes
-linkedin_profile: https://www.linkedin.com/in/benjaminhowes/
-footer: "&copy; Ben Howes. Theme based on [Github pages hacker](https://github.com/pages-themes/hacker).\n"
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: post
+      tags: false
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+  - scope:
+      path: '_posts'
+    values:
+      permalink: /blog/:slug
+
+
 markdown: kramdown
-theme: jekyll-theme-hacker
+
 plugins:
-- jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
 show_downloads: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:title
+paginate: 9
+paginate_path: "/blog/page/:num"
+
+exclude:
+  - docker-compose.yml
+  - vendor

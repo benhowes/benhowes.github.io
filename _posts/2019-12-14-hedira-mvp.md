@@ -1,7 +1,12 @@
 ---
 title: The 4 week MVP for Hedira
 date: 2019-12-14 09:00:00 Z
+image: '/assets/images/hedira.png'
+tags:
+    - startup
 ---
+
+> FYI: We sold Hedira in December 2021 and the new owner has unfortunately not continued to develop Hedira due to some challenging personal circumstances.
 
 In the past 4 weeks, I've been working to take an idea and develop it into something good enough to help us prove our startup's fundamental assumptions.
 

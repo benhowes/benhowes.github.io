@@ -1,6 +1,7 @@
 ---
 title: Making subscriptions for consumables work
 date: 2019-07-25 09:00:00 Z
+image: '/assets/images/generic.jpg'
 ---
 
 ## Keeping coffee in the cupboard

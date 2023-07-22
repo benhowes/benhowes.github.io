@@ -1,8 +1,8 @@
 ---
 title: Zoetrope Labs
 image: "/assets/images/zoetrope.jpg"
-summary: 'Zoetrope Labs was an IoT consultancy which I founded and grew to a team
-  of 7 people. We completed projects for the GSMA, e.on etc.
+summary: 'Zoetrope Labs was an IoT consultancy that I founded and grew to a team
+  of 7 people. We worked with e.on, the GSMA etc.
 
 '
 weight: 1
@@ -12,7 +12,7 @@ current: false
 [Zoetrope Labs](https://zoetrope.io) was a company I started almost immediately upon graduating from university in the summer of 2013.
 
 Zoetrope had 2 lives:
-1. one as a 3D product photography company ([detailed here](https://zoetrope.io/client-story/3d-imaging/))
+1. a short (ill-fated) one as a 3D product photography company
 2. a longer and more productive one as an IoT consultancy
 
 I'll write more about the photography business another time - but suffice to say, I was not able to achieve product/market fit. In 2015 we successfully pivoted to IoT consulting, just as the buzzword was being popularised.

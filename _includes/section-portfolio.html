@@ -1,0 +1,57 @@
+<!-- begin portfolio -->
+{% assign projects =  site.projects | sort: 'weight' %}
+
+<section class="section portfolio">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__head">
+          <h2 class="section__title">{{ site.data.settings.portfolio__title }}</h2>
+          <!--<div class="portfolio__view">
+            <div class="portfolio__toggle">
+              <div class="icon">
+                <div class="icon-bar"></div>
+                <div class="icon-bar"></div>
+                <div class="icon-bar"></div>
+              </div>
+            </div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="portfolio__gallery animate">
+    <div class="container">
+      <div class="row">
+        {% for post in projects %}
+        <div class="col col-4 col-d-6 col-t-12">
+          <section class="portfolio__item">
+            <a href="{{post.url}}">
+                <div class="header" style="background-image: url({{post.image}});">
+                    &nbsp;
+                    {% if post.current %}
+                        <div class="current">
+                            Active
+                            <img src="{{ 'assets/images/current_project.png' | relative_url }}"/>
+                        </div>
+                    {% endif %}
+                </div>
+                <h3 class="header-title">{{post.title}}</h3>
+            </a>
+            <div class="description">
+                {{post.summary}} <a href="{{post.url}}">Read more...</a>
+            </div>
+          </section>
+        </div>
+
+
+
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+</section>
+<!-- end portfolio -->
