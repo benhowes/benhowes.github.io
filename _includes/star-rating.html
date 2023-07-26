@@ -1,0 +1,8 @@
+<div class="rating">
+    {% for i in (1..page.rating) %}
+        <i class="ion ion-md-star"></i>
+    {% endfor %}
+    {% for i in (page.rating..4) %}
+        <i class="ion ion-md-star-outline"></i>
+    {% endfor %}
+</div>

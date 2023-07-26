@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="post book">
+    <div class="book_title_area container">
+      <div class="row">
+        <div class="meta col-10">
+          <small>{{ page.date | date: "%-d %B %Y" }}</small>
+          <h1>{{ page.title }}</h1>
+          <h2>by {{ page.author }}</h2>
+          {% include star-rating.html rating=page.rating %}
+        </div>
+        <div class="image col-2">
+          <img src="{{page.image}}" alt="{{page.title}} cover image" />
+        </div>
+      </div>
+    </div>
+
+    {{content}}
+
+    {% if false and page.tags %}
+      <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+    {% endif %}
+</div>
+

@@ -4,9 +4,10 @@ services:
       image: jekyll/jekyll:3.8
       environment:
         - JEKYLL_ENV=development
-      command: jekyll serve --force_polling --drafts --incremental
+      command: jekyll serve --force_polling --drafts --incremental -l
       ports:
           - 4000:4000
+          - 35729:35729
       volumes:
-          - .:/srv/jekyll:cached
-          - ./vendor/bundle:/usr/local/bundle:cached
+          - .:/srv/jekyll
+          - ./vendor/bundle:/usr/local/bundle
