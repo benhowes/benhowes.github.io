@@ -25,8 +25,8 @@ description: Book shelf
 
 <div class="container">
   <div class="row animate">
-    {% for post in site.books %}
-      {% include article.html %}
+    {% for page in site.books %}
+      {% include book.html %}
     {% endfor %}
   </div>
 </div>

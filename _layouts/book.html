@@ -2,21 +2,25 @@
 layout: default
 ---
 
-<div class="post book">
-    <div class="book_title_area container">
+<div class="container post">
+    <div class="book_title_area">
       <div class="row">
-        <div class="meta col-10">
-          <small>{{ page.date | date: "%-d %B %Y" }}</small>
+        <hr />
+        <div class="meta col-10 col-d-8">
+          <small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time></small>
           <h1>{{ page.title }}</h1>
-          <h2>by {{ page.author }}</h2>
+          <h2><small>by {{ page.author }}</small></h2>
           {% include star-rating.html rating=page.rating %}
         </div>
-        <div class="image col-2">
+        <div class="image col-2 col-d-4">
           <img src="{{page.image}}" alt="{{page.title}} cover image" />
         </div>
+        <hr />
       </div>
     </div>
+</div>
 
+<div class="container post animate">
     {{content}}
 
     {% if false and page.tags %}

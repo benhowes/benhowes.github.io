@@ -1,12 +1,14 @@
 
 .book_title_area {
+    h1, h2 {
+        margin-bottom: 0px;
+    }
 
-}
-.book_title_area h1 {
-        margin-top: 16px;
-}
-.book_title_area .image {
+    .image {
         text-align: right;
     }
 
+    hr {
+        margin: 32px 0;
+    }
 }

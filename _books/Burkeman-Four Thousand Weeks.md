@@ -1,6 +1,7 @@
 ---
 title: Four Thousand Weeks
 author: Oliver Burkeman
+date: 2022-09-04T00:00:00Z
 image: https://m.media-amazon.com/images/I/81QYEb6YnVL._SY160.jpg
 rating: 5
 ISBN: 0374159122

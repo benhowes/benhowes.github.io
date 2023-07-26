@@ -1,0 +1,18 @@
+<div class="col col-6 col-d-12 col-t-12">
+  <div class="book">
+    <a href="{{ page.url | prepend: site.baseurl }}">
+      <div class="book_title_area container">
+        <div class="row">
+          <div class="meta col-10 col-d-8">
+            <h1>{{ page.title }}</h1>
+            <h2><small>by {{ page.author }}</small></h2>
+            {% include star-rating.html rating=page.rating %}
+          </div>
+          <div class="image col-2 col-d-4">
+            <img src="{{page.image}}" alt="{{page.title}} cover image" />
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
