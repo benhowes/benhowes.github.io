@@ -12,8 +12,9 @@ What I liked about this book:
 2. It's actually very normal to not feel totally in control, and it's probably best to accept that it probably always will feel that way.
 3. The concept of "Decide in advance what to fail at"
 
-Favourite quote:
+Favourite quote (and undestatement of the century), with relation to the world of today:
 > "To put things as mildly as possible, it’s hard to remain entirely confident that everything will turn out fine." - Oliver Burkeman
 
-Undestatement of the century.
+This book is good for anyone who is interested in getting things done, but ends up feeling like all the efforts to get _everything_ done just never stick and other books which present the cruel optimism of "if you _just_ add this one more productivity hack, you'll be on top of things".
+
 

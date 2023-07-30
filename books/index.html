@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Blog
-description: Book shelf
+title: Book shelf
+description: Notes on the non-fiction books I've read. This is a work in progress.
 ---
+{% assign books =  site.books | sort: 'date' | reverse %}
 
 <!-- begin hero -->
 <section class="hero">
@@ -25,7 +26,7 @@ description: Book shelf
 
 <div class="container">
   <div class="row animate">
-    {% for page in site.books %}
+    {% for page in books %}
       {% include book.html %}
     {% endfor %}
   </div>

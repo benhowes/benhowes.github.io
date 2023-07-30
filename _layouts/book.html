@@ -11,6 +11,7 @@ layout: default
           <h1>{{ page.title }}</h1>
           <h2><small>by {{ page.author }}</small></h2>
           {% include star-rating.html rating=page.rating %}
+          <small>ISBN: {{ page.ISBN }}</small>
         </div>
         <div class="image col-2 col-d-4">
           <img src="{{page.image}}" alt="{{page.title}} cover image" />

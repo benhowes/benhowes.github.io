@@ -1,7 +1,19 @@
 
 .book_title_area {
+
+
     h1, h2 {
         margin-bottom: 0px;
+    }
+
+    h1.fixed-height{
+        height: 93.5px;
+        overflow: hidden;
+        white-space: normal;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
     }
 
     .image {
