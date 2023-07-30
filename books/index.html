@@ -1,0 +1,37 @@
+---
+layout: default
+title: Book shelf
+description: Notes on the non-fiction books I've read. This is a work in progress.
+---
+{% assign books =  site.books | sort: 'date' | reverse %}
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-10 col-d-12">
+        <div class="hero__inner">
+          {% if page.title %}
+            <h1 class="hero__title">{{ page.title }}</h1>
+          {% endif %}
+          {% if page.description %}
+            <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+<div class="container">
+  <div class="row animate">
+    {% for page in books %}
+      {% include book.html %}
+    {% endfor %}
+  </div>
+</div>
+
+{% include pagination.html %}
+
+{% include section-subscribe.html %}

@@ -9,6 +9,10 @@ collections:
     title: Projects
     output: true
     permalink: "/:title/"
+  books:
+    title: Books
+    output: true
+    permalink: "/book/:title/"
   uploads:
     title: Uploads
     output: true
@@ -28,7 +32,10 @@ defaults:
       path: '_posts'
     values:
       permalink: /blog/:slug
-
+  - scope:
+      path: '_books'
+    values:
+      layout: book
 
 markdown: kramdown
 
@@ -49,3 +56,7 @@ paginate_path: "/blog/page/:num"
 exclude:
   - docker-compose.yml
   - vendor
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
