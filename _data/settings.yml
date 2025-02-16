@@ -35,6 +35,6 @@ menu__settings:
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-globe-outline", color: "#55acee", label: Bluesky, link: "https://bsky.app/profile/benhowes.bsky.social"}
+- {icon: "ion-globe", color: "#55acee", label: Bluesky, link: "https://bsky.app/profile/benhowes.bsky.social"}
 - {icon: "ion-logo-github", color: "#24292e", label: GitHub, link: "https://github.com/benhowes"}
 - {icon: "ion-logo-linkedin", color: "#0077B5", label: Linkedin, link: "https://www.linkedin.com/in/benjaminhowes/"}

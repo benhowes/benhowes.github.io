@@ -11,4 +11,4 @@ current: false
 
 Hedira ~~is~~was a complete houseplant care app offering species-specific, day-to-day houseplant care advice which is customised for the conditions of the space you keep your plant in. The app also offers journalling, ways to find new plants, and help with common problems.
 
-I joined Jess shortly after she'd made a first prototype in order to help take the concept to a broader set of users and with more features. We brought in Robb who documented his experience of working on the project here: https://orke.design/work/hedira
+I joined Jess shortly after she'd made a first prototype in order to help take the concept to a broader set of users and with more features. We brought in Robb, a designer who documented his experience of [working on the project here](https://orke.design/work/hedira).
