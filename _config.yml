@@ -54,9 +54,14 @@ paginate: 9
 paginate_path: "/blog/page/:num"
 
 exclude:
-  - docker-compose.yml
-  - vendor
-  - Makefile
   - Gemfile
   - Gemfile.lock
-
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+  - Makefile
